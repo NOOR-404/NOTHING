@@ -1,31 +1,5 @@
-1. Samsung  
-2. OnePlus  
-3. OPPO  
-4. Infinix  
-5. Lenovo  
-6. Google  
-7. Amazon  
-8. Sony  
-9. Realme  
-10. Huawei  
-11. LG  
-12. Nokia  
-13. TECNO  
-14. Lava  
-15. Motorola  
-16. ASUS  
-17. Wiko  
-18. Itel  
-19. Vivo  
-20. POCO  
-21. Redmi  
-22. Symphony  
-23. ZTE  
-24. Honor  
-25. Walton
-26. Acer
-27. Htc
-28. Hp
-29. Iphone
-30. IQOO
-31. Orange
+12
+24
+10
+4
+1
